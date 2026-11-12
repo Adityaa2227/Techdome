@@ -1,0 +1,21 @@
+{
+  "name": "techdome",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "playwright test",
+    "test:e2e": "playwright test --no-deps --project=e2e --project=mobile-375 --project=tablet-768",
+    "test:integration": "playwright test --no-deps --project=integration",
+    "test:security": "playwright test --no-deps --project=security",
+    "test:load": "playwright test --no-deps --project=load",
+    "report": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Playwright E2E, integration, security and load tests for techdome.io",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}

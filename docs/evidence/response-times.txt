@@ -1,0 +1,15 @@
+# 12 sequential GET https://techdome.io/contact (2026-11-10T16:03:33Z)
+run 1: http=200 ttfb=0.693246s total=0.885940s
+run 2: http=200 ttfb=0.671265s total=0.803933s
+run 3: http=200 ttfb=0.472913s total=0.566728s
+run 4: http=200 ttfb=0.497128s total=0.662305s
+run 5: http=200 ttfb=0.471676s total=0.566932s
+run 6: http=200 ttfb=0.886743s total=2.535555s
+run 7: http=200 ttfb=0.871085s total=1.157947s
+run 8: http=200 ttfb=0.506682s total=0.600340s
+run 9: http=200 ttfb=1.309651s total=4.952357s
+run 10: http=200 ttfb=0.480731s total=0.574670s
+run 11: http=200 ttfb=0.626010s total=0.775451s
+run 12: http=200 ttfb=0.621202s total=0.805322s
+# control
+playwright.dev ttfb=0.392898s

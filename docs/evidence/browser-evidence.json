@@ -1,0 +1,85 @@
+{
+  "notFound": {
+    "status": 404,
+    "title": "404: This page could not be found.",
+    "links": 0
+  },
+  "gcc": {
+    "textContent": "YourengineeringcentreinIndia.Werunitfromdayone,andhanditoverwhenyou’reready.",
+    "innerText": "YourengineeringcentreinIndia.Werunitfromdayone,andhanditoverwhenyou’reready.",
+    "html": "<span class=\"mr-[0.26em] inline-block\" style=\"transform: none;\">Your</span><span class=\"mr-[0.26em] inline-block\" style=\"transform: none;\">engineering</span><span class=\"mr-[0.26em] inline-block\" style=\"transform: none;\">centre</span><span class=\"mr-[0.26em] inline-block\" style=\"transform: none;\">in"
+  },
+  "contactConsole": [],
+  "bookingErrors": {
+    "ariaInvalid": "true",
+    "ariaDescribedby": null,
+    "ariaErrormessage": null,
+    "name": null,
+    "id": "lead-field-firstName"
+  },
+  "cookies": [
+    {
+      "name": "__oaiq_consent",
+      "domain": ".techdome.io",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__obref",
+      "domain": ".techdome.io",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "domain": ".techdome.io",
+      "secure": false,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_D3NY626SEL",
+      "domain": ".techdome.io",
+      "secure": false,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "domain": ".techdome.io",
+      "secure": false,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clck",
+      "domain": ".techdome.io",
+      "secure": false,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "domain": ".techdome.io",
+      "secure": false,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lc_session_tk_44cb4c0a6b294d6082b5287e7ef02860",
+      "domain": "techdome.io",
+      "secure": false,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clsk",
+      "domain": ".techdome.io",
+      "secure": false,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    }
+  ]
+}

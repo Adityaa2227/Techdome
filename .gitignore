@@ -1,0 +1,14 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Assignment brief is marked "Confidential, for candidate use only": keep it out of the repo
+*.pdf
+
+# Personal work plan (copies parts of the confidential brief)
+steps.md

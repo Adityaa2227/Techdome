@@ -1,0 +1,26 @@
+# curl -sI https://techdome.io/  (2026-11-10T16:03:31Z)
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+accept-ch: Sec-CH-Prefers-Color-Scheme
+Cache-Control: s-maxage=60, stale-while-revalidate=31535940
+critical-ch: Sec-CH-Prefers-Color-Scheme
+permissions-policy: camera=(), microphone=(), geolocation=()
+referrer-policy: strict-origin-when-cross-origin
+Server: cloudflare
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+vary: Sec-CH-Prefers-Color-Scheme, RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch, Accept-Encoding
+x-content-type-options: nosniff
+x-dns-prefetch-control: on
+x-frame-options: SAMEORIGIN
+x-nextjs-cache: HIT
+x-nextjs-prerender: 1
+x-nextjs-stale-time: 300
+x-railway-edge: sin1
+cf-cache-status: DYNAMIC
+
+
+# CSP header present?
+0
+# CSP meta tag present?
+0
